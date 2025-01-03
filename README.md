@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am mutlu  </h1>
+<h1 align="center">Hi 👋, I am Mutlucan  </h1>
 
 ``` javascript
 const glatnano = {
