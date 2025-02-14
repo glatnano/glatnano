@@ -7,8 +7,8 @@
 
 |Teknolojiler|Yazılım Dilleri|Araçlar|
 |------------|---------------|-------|
-|Linux|Python||
-|Git|
+|Linux|Python|Nmap|
+|Git||Wireshark|
 |Virtualization|
 
 
@@ -17,7 +17,7 @@
 
 |Teknolojiler|Yazılım Dilleri|Araçlar|
 |------------|---------------|-------|
-|Docker|C|
+|Docker|C|Metasploit|
 |MySQL|JavaScript|
 
 
@@ -26,6 +26,5 @@
 
 |Teknolojiler|Yazılım Dilleri|Araçlar|
 |------------|---------------|-------|
-||Assemblyx86|Nmap|
-||C++|Metasploit|
-|||Wireshark|
+||C++|
+||Assemblyx86|
